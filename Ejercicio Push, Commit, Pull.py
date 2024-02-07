@@ -1,4 +1,4 @@
-a = 200
-b = 50
-c= a*b
+a = 2000
+b = 500
+c= a*b*100
 print("El Resultado es",c)
