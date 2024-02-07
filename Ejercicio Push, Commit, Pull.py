@@ -1,4 +1,4 @@
-a = 20
-b = 5
-c= a*b
+a = 200
+b = 5000
+c= a*b/85
 print("El Resultado es",c)
