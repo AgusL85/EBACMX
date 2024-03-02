@@ -1,8 +1,9 @@
 # Prueba Python
-# Se añade variable 
+# Nueva Variable 
 a= 10
 b= 30
-c=30*10*5
+e=1.1
+c=30*10*5 / e
 
 print("Resultado:",c)
 
