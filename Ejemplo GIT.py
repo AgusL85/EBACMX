@@ -1,13 +1,16 @@
 # Prueba Python
-# Nueva Variable 
+# Se añade variable 
 a= 10
 b= 30
-e=1.1
-c=30*10*5 / e
+c=30*10*5
 
 print("Resultado:",c)
 
-d= c*100
+# Cambiando el factor 102 Según el requerimiento del negocio
+# Cambiando el factor 100 Según Junta de Control
+# Cambio el factor a 200 según Dirección
+
+d= c* 200
 print("resultado total=",d)
 
 # Cambiado el factor 100 según el requerimiento del negocio
